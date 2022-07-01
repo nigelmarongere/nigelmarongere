@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nigelmarongere
-- 👀 I’m interested in web development & machine learning
-- 🌱 I’m currently learning python, ML theory & mathematics
+- 🌱 I’m currently learning JavaScript, CS theory & mathematics
 - 💞️ I’m looking to collaborate on websites, apps and music!
 - 📫 How to reach me: nigelmarongere@gmail.com
 
