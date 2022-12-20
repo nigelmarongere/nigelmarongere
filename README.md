@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nigelmarongere
-- 🌱 I’m currently learning Angular/TypeScript, C#, CS theory & mathematics
+- 🌱 I’m currently learning Angular/TypeScript, Next.js/React, CS theory & mathematics
 - 💞️ I’m looking to collaborate on websites, apps and music!
 - 📫 How to reach me: nigelmarongere@gmail.com
 
