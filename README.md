@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nigelmarongere
-- 🌱 I’m currently learning Angular/TypeScript, Next.js/React
+- 👋 Hi, I’m @nigelmarongere, a Product Engineer from the UK
+- 🌱 I’m currently learning and building with Angular/TypeScript, Next.js/React & C# (blazer)
 - 💞️ I’m looking to collaborate on websites, apps and music!
 - 📫 How to reach me: nigelmarongere@gmail.com
 
