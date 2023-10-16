@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nigelmarongere, a Product Engineer from the UK
 - 👨🏽‍💻 My latest project is www.writersblocks.xyz
-- 🌱 I’m currently learning and building with Angular/TypeScript, Next.js/React & C# (blazer)
+- 🌱 I’m currently learning and building with Angular/TypeScript, Next.js/React &
 - 💞️ I’m looking to collaborate on websites, apps and music!
 - 📫 How to reach me: nigelmarongere@gmail.com
 
