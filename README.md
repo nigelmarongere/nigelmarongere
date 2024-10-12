@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nigelmarongere, a Product Engineer from the UK
-- 👨🏽‍💻 My latest project is x.
-- 🌱 I’m currently building with x, y & z.
+- 👨🏽‍💻 My latest project is Amp.
+- 🌱 I’m currently building with Next.js.
 - 💞️ I’m looking to collaborate on websites, apps and music!
 - 📫 How to reach me: nigelmarongere@gmail.com
 
